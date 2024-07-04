@@ -1,0 +1,15 @@
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Zgafnij cyfre\bin\Debug\net8.0\Zgafnij cyfre.exe
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Zgafnij cyfre\bin\Debug\net8.0\Zgafnij cyfre.deps.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Zgafnij cyfre\bin\Debug\net8.0\Zgafnij cyfre.runtimeconfig.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Zgafnij cyfre\bin\Debug\net8.0\Zgafnij cyfre.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Zgafnij cyfre\bin\Debug\net8.0\Zgafnij cyfre.pdb
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Zgafnij cyfre\obj\Debug\net8.0\Zgafnij cyfre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Zgafnij cyfre\obj\Debug\net8.0\Zgafnij cyfre.AssemblyInfoInputs.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Zgafnij cyfre\obj\Debug\net8.0\Zgafnij cyfre.AssemblyInfo.cs
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Zgafnij cyfre\obj\Debug\net8.0\Zgafnij cyfre.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Zgafnij cyfre\obj\Debug\net8.0\Zgafnij cyfre.sourcelink.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Zgafnij cyfre\obj\Debug\net8.0\Zgafnij cyfre.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Zgafnij cyfre\obj\Debug\net8.0\refint\Zgafnij cyfre.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Zgafnij cyfre\obj\Debug\net8.0\Zgafnij cyfre.pdb
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Zgafnij cyfre\obj\Debug\net8.0\Zgafnij cyfre.genruntimeconfig.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Zgafnij cyfre\obj\Debug\net8.0\ref\Zgafnij cyfre.dll
