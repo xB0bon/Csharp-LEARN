@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sekcja 3 Loops/1.0.0": {
+        "runtime": {
+          "Sekcja 3 Loops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sekcja 3 Loops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

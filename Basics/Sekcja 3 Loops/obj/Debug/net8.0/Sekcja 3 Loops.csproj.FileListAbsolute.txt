@@ -1,0 +1,15 @@
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Sekcja 3 Loops\bin\Debug\net8.0\Sekcja 3 Loops.exe
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Sekcja 3 Loops\bin\Debug\net8.0\Sekcja 3 Loops.deps.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Sekcja 3 Loops\bin\Debug\net8.0\Sekcja 3 Loops.runtimeconfig.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Sekcja 3 Loops\bin\Debug\net8.0\Sekcja 3 Loops.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Sekcja 3 Loops\bin\Debug\net8.0\Sekcja 3 Loops.pdb
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Sekcja 3 Loops\obj\Debug\net8.0\Sekcja 3 Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Sekcja 3 Loops\obj\Debug\net8.0\Sekcja 3 Loops.AssemblyInfoInputs.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Sekcja 3 Loops\obj\Debug\net8.0\Sekcja 3 Loops.AssemblyInfo.cs
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Sekcja 3 Loops\obj\Debug\net8.0\Sekcja 3 Loops.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Sekcja 3 Loops\obj\Debug\net8.0\Sekcja 3 Loops.sourcelink.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Sekcja 3 Loops\obj\Debug\net8.0\Sekcja 3 Loops.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Sekcja 3 Loops\obj\Debug\net8.0\refint\Sekcja 3 Loops.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Sekcja 3 Loops\obj\Debug\net8.0\Sekcja 3 Loops.pdb
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Sekcja 3 Loops\obj\Debug\net8.0\Sekcja 3 Loops.genruntimeconfig.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Sekcja 3 Loops\obj\Debug\net8.0\ref\Sekcja 3 Loops.dll
