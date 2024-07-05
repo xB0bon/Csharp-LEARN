@@ -21,15 +21,15 @@ while (isTrue)
             
             bool wantToEnd = false;
 
-            while (!wantToEnd)
+            do
             {
                 Console.WriteLine("\nDo you want to play again? (y/n) : ");
                 string wannaPlayAgain = Console.ReadLine();
-                
+
                 if (wannaPlayAgain.ToLower().Trim() == "y" || wannaPlayAgain.ToLower().Trim() == "yes")
                 {
                     wantToEnd = true;
-                    Console.WriteLine("\n\n\n\n\n\n");
+                    Console.Clear();
                 }
                 else if (wannaPlayAgain.ToLower().Trim() == "n" || wannaPlayAgain.ToLower().Trim() == "no")
                 {
@@ -40,7 +40,9 @@ while (isTrue)
                 {
                     continue;
                 }
-            }
+
+            } while (!wantToEnd);
+
             
             
             
