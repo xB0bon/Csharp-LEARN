@@ -1,0 +1,15 @@
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\exerciseFromUdemy\bin\Debug\net8.0\exerciseFromUdemy.exe
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\exerciseFromUdemy\bin\Debug\net8.0\exerciseFromUdemy.deps.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\exerciseFromUdemy\bin\Debug\net8.0\exerciseFromUdemy.runtimeconfig.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\exerciseFromUdemy\bin\Debug\net8.0\exerciseFromUdemy.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\exerciseFromUdemy\bin\Debug\net8.0\exerciseFromUdemy.pdb
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\exerciseFromUdemy\obj\Debug\net8.0\exerciseFromUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\exerciseFromUdemy\obj\Debug\net8.0\exerciseFromUdemy.AssemblyInfoInputs.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\exerciseFromUdemy\obj\Debug\net8.0\exerciseFromUdemy.AssemblyInfo.cs
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\exerciseFromUdemy\obj\Debug\net8.0\exerciseFromUdemy.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\exerciseFromUdemy\obj\Debug\net8.0\exerciseFromUdemy.sourcelink.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\exerciseFromUdemy\obj\Debug\net8.0\exerciseFromUdemy.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\exerciseFromUdemy\obj\Debug\net8.0\refint\exerciseFromUdemy.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\exerciseFromUdemy\obj\Debug\net8.0\exerciseFromUdemy.pdb
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\exerciseFromUdemy\obj\Debug\net8.0\exerciseFromUdemy.genruntimeconfig.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\exerciseFromUdemy\obj\Debug\net8.0\ref\exerciseFromUdemy.dll

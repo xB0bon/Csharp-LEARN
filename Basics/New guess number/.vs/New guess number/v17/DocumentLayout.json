@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Piotrek\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Technicznych im. Tadeusza Ko\u015Bciuszki w Radomiu\\Komputer domowy\\Desktop\\PROGRAMOWANIE\\Nauka c-sharp\\Basics\\New guess number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55D75065-D997-489F-B9AB-46269073AB93}|New guess number\\New guess number.csproj|c:\\users\\piotrek\\onedrive - zesp\u00F3\u0142 szk\u00F3\u0142 technicznych im. tadeusza ko\u015Bciuszki w radomiu\\komputer domowy\\desktop\\programowanie\\nauka c-sharp\\basics\\new guess number\\new guess number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D75065-D997-489F-B9AB-46269073AB93}|New guess number\\New guess number.csproj|solutionrelative:new guess number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Piotrek\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Technicznych im. Tadeusza Ko\u015Bciuszki w Radomiu\\Komputer domowy\\Desktop\\PROGRAMOWANIE\\Nauka c-sharp\\Basics\\New guess number\\New guess number\\Program.cs",
+              "RelativeDocumentMoniker": "New guess number\\Program.cs",
+              "ToolTip": "C:\\Users\\Piotrek\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Technicznych im. Tadeusza Ko\u015Bciuszki w Radomiu\\Komputer domowy\\Desktop\\PROGRAMOWANIE\\Nauka c-sharp\\Basics\\New guess number\\New guess number\\Program.cs",
+              "RelativeToolTip": "New guess number\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAADwvxQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:18:18.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

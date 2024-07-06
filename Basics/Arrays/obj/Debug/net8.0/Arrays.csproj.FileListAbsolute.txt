@@ -1,0 +1,15 @@
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\Arrays\obj\Debug\net8.0\ref\Arrays.dll

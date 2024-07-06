@@ -1,0 +1,15 @@
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\switch\bin\Debug\net8.0\switch.exe
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\switch\bin\Debug\net8.0\switch.deps.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\switch\bin\Debug\net8.0\switch.runtimeconfig.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\switch\bin\Debug\net8.0\switch.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\switch\bin\Debug\net8.0\switch.pdb
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\switch\obj\Debug\net8.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\switch\obj\Debug\net8.0\switch.AssemblyInfoInputs.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\switch\obj\Debug\net8.0\switch.AssemblyInfo.cs
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\switch\obj\Debug\net8.0\switch.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\switch\obj\Debug\net8.0\switch.sourcelink.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\switch\obj\Debug\net8.0\switch.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\switch\obj\Debug\net8.0\refint\switch.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\switch\obj\Debug\net8.0\switch.pdb
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\switch\obj\Debug\net8.0\switch.genruntimeconfig.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\PROGRAMOWANIE\Nauka c-sharp\Basics\switch\obj\Debug\net8.0\ref\switch.dll

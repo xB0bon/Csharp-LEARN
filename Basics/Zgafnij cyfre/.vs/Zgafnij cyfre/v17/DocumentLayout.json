@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Piotrek\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Technicznych im. Tadeusza Ko\u015Bciuszki w Radomiu\\Komputer domowy\\Desktop\\PROGRAMOWANIE\\Nauka c-sharp\\Basics\\Zgafnij cyfre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Piotrek\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Technicznych im. Tadeusza Ko\u015Bciuszki w Radomiu\\Komputer domowy\\Desktop\\PROGRAMOWANIE\\Nauka c-sharp\\Basics\\Zgafnij cyfre\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Piotrek\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Technicznych im. Tadeusza Ko\u015Bciuszki w Radomiu\\Komputer domowy\\Desktop\\PROGRAMOWANIE\\Nauka c-sharp\\Basics\\Zgafnij cyfre\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Piotrek\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Technicznych im. Tadeusza Ko\u015Bciuszki w Radomiu\\Komputer domowy\\Desktop\\PROGRAMOWANIE\\Nauka c-sharp\\Basics\\Zgafnij cyfre\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:55:24.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
