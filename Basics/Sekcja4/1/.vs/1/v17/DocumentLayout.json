@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Piotrek\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Technicznych im. Tadeusza Ko\u015Bciuszki w Radomiu\\Komputer domowy\\Desktop\\PROGRAMOWANIE\\Nauka c-sharp\\Basics\\Sekcja4\\1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1A447C-DA91-4D8C-85B7-C4AD8ECB8D75}|1\\1.csproj|c:\\users\\piotrek\\onedrive - zesp\u00F3\u0142 szk\u00F3\u0142 technicznych im. tadeusza ko\u015Bciuszki w radomiu\\komputer domowy\\desktop\\programowanie\\nauka c-sharp\\basics\\sekcja4\\1\\1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1A447C-DA91-4D8C-85B7-C4AD8ECB8D75}|1\\1.csproj|solutionrelative:1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Piotrek\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Technicznych im. Tadeusza Ko\u015Bciuszki w Radomiu\\Komputer domowy\\Desktop\\PROGRAMOWANIE\\Nauka c-sharp\\Basics\\Sekcja4\\1\\1\\Program.cs",
+              "RelativeDocumentMoniker": "1\\Program.cs",
+              "ToolTip": "C:\\Users\\Piotrek\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Technicznych im. Tadeusza Ko\u015Bciuszki w Radomiu\\Komputer domowy\\Desktop\\PROGRAMOWANIE\\Nauka c-sharp\\Basics\\Sekcja4\\1\\1\\Program.cs*",
+              "RelativeToolTip": "1\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T15:27:41.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
