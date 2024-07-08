@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Methods3 - Weather Simulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62195364a561f3352643f4a9638e640bf515ec4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8390b51884e8e8c78d0cc771d9e267f2a33d7dc2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Methods3 - Weather Simulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Methods3 - Weather Simulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

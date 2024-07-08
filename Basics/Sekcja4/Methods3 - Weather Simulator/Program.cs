@@ -32,7 +32,7 @@ class Program
 
         avrageTemperature = (double)sum / days;
 
-        Console.WriteLine("Average Temperature: " + Math.Round(avrageTemperature, 2));
+        Console.WriteLine("Average Temperature: " + Math.Round(avrageTemperature, 1));
 
     }
 }

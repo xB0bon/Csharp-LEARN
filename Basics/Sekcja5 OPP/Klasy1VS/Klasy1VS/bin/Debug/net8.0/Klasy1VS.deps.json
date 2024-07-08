@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Klasy1VS/1.0.0": {
+        "runtime": {
+          "Klasy1VS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Klasy1VS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
