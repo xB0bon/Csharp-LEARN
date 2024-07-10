@@ -6,15 +6,12 @@ class Program
     
     static void Main(string[] args)
     {
-        Car car = new Car("Audi", "A6", true);
-        Console.WriteLine("Enter brand: ");
-        car.Brand = Console.ReadLine();
+        Customer peter = new Customer("Peter");
+        Customer FrankTheTank = new Customer("FrankTheTank", "FrankTheTank@gmail.com", "552345234");
+        Console.WriteLine($"Customer name : {peter.Name}");
+        Console.WriteLine($"Customer name : {FrankTheTank.Name}");
         
-        Console.WriteLine("Enter model: ");
-        car.Model = Console.ReadLine();
-
-        //Console.WriteLine("Is it a luxury car? (true/false)");
-        car.DisplayModel();
+        
         
     }
     

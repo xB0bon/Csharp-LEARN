@@ -8,7 +8,7 @@ internal class Car
     // private ukrywa zmienną przed innymi klasami
     private string _model;
     private string _brand;
-    private bool _isLuxury;
+    //private bool _isLuxury;
     
     // property jest słowem kluczowym, który pozwala uzyskać lub ustawić wartość zmiennej
     public string Model { get => _model;
@@ -71,9 +71,10 @@ internal class Car
         } 
     }
     
-    public bool Luxury { get => _isLuxury; set => _isLuxury = value;}
     
-    
+    //public bool Luxury { get => _isLuxury; set => _isLuxury = value;}
+    public bool Luxury { get; set; }
+
     public Car(string brand, string model, bool luxury)
     {
         Luxury = luxury;
@@ -93,5 +94,11 @@ internal class Car
         {
             Console.WriteLine("it is not a luxury car.");
         }
+    }
+
+    public void Drive()
+    {
+        Console.WriteLine($"{Brand} is driving!");
+
     }
 }
