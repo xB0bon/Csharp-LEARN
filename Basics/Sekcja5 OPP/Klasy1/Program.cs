@@ -6,12 +6,12 @@ class Program
     
     static void Main(string[] args)
     {
-        Adding dodawanie = new Adding();
-        
-        dodawanie.FistNumber = 5;
-        dodawanie.SecondNumber = 3;
-        
-        Console.WriteLine($"Wynik dodawania: {dodawanie.Output}");
+        Car audi = new Car("Audi", "A5", true);
+        Car audi1 = new Car("Audi", "A6", true);
+        Car car1 = new Car();
+        Car car2 = new Car();
+        Car car3 = new Car();
+
 
     }
 

@@ -2,6 +2,9 @@
 
 internal class Car
 {
+
+    public static int NumberOfCars = 0;
+    
     // public daje dostęp do zmiennej np. w Program.cs 
     // jednak lepiej teho nie uzywac
     
@@ -75,8 +78,10 @@ internal class Car
     //public bool Luxury { get => _isLuxury; set => _isLuxury = value;}
     public bool Luxury { get; set; }
 
-    public Car(string brand, string model, bool luxury)
+    public Car(string brand  = "Audi", string model = "A5", bool luxury = false)
     {
+        NumberOfCars++;
+        Console.WriteLine(NumberOfCars);
         Luxury = luxury;
         Model = model;
         Brand = brand;
