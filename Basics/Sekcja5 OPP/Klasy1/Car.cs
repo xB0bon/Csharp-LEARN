@@ -76,7 +76,9 @@ internal class Car
     
     
     //public bool Luxury { get => _isLuxury; set => _isLuxury = value;}
+    // prop
     public bool Luxury { get; set; }
+    
 
     public Car(string brand  = "Audi", string model = "A5", bool luxury = false)
     {

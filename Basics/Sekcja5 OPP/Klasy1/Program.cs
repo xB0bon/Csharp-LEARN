@@ -6,11 +6,17 @@ class Program
     
     static void Main(string[] args)
     {
-        Car audi = new Car("Audi", "A5", true);
-        Car audi1 = new Car("Audi", "A6", true);
-        Car car1 = new Car();
-        Car car2 = new Car();
-        Car car3 = new Car();
+        
+        Customer c1 = new Customer("Paul");
+        Customer c2 = new Customer("Peter");
+        Customer c3 = new Customer("Mark", "123 Main St", "555-123-4567");
+        Customer c4 = new Customer("Jane", "456 Elm St", "888-999-0000");
+        
+        
+        c1.DisplayCustomerDetails();
+        c2.DisplayCustomerDetails();
+        c3.DisplayCustomerDetails();
+        c4.DisplayCustomerDetails();
 
 
     }
