@@ -4,9 +4,19 @@ internal class Customer
 {
     private static int _nextId = 0;
     
-    
-    // readonly mozna tylko raz zainicjowac
     private readonly int _id;
+
+    
+    
+    // write only property.
+    private string _password;
+    public string Password
+    {
+        set
+        {
+            _password = value;
+        }
+    }
 
     public int Id
     {
