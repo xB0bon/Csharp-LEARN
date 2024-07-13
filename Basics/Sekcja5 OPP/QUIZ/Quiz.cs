@@ -12,8 +12,19 @@ internal class Quiz
     {
         _questions = questions;
     }
-    public void DisplayQuestionAndAnswer(Question questions)
+
+    public void StartQuiz()
     {
+        foreach (var question in _questions)
+        {
+            DisplayQuestionAndAnswer(question);
+        }
+        DisplayResult();
+    }
+    
+    private void DisplayQuestionAndAnswer(Question questions)
+    {
+        Console.ForegroundColor = ConsoleColor.Yellow;
         Console.WriteLine("╔═══════════════════════════════════╗");
         Console.WriteLine("║             Question              ║");
         Console.WriteLine("╚═══════════════════════════════════╝");
@@ -48,7 +59,7 @@ internal class Quiz
     {
         
         string userInput = "";
-        bool isNumber = int.TryParse(userInput, out _choice);
+        bool isNumber;
             
         do
         {
@@ -60,19 +71,22 @@ internal class Quiz
         return _choice;
     }
 
-    public void DisplayResult()
+    private void DisplayResult()
     {
         // Display the result after the quiz
         Console.Clear();
+        Console.ForegroundColor = ConsoleColor.DarkMagenta;
         Console.WriteLine("╔═══════════════════════════════════╗");
         Console.WriteLine("║               Result              ║");
         Console.WriteLine("╚═══════════════════════════════════╝");
-
+        
+        Console.ResetColor();
+        
         Console.WriteLine("Number of questions: " + _questions.Length);
         
         Console.ForegroundColor = ConsoleColor.Red;
         Console.WriteLine("Your score: " + _score);
-        if (_score != 0 && _questions.Length != 0)
+        if (_score != 0 && _questions.Length != 0 )
         {
             _scoreInPercentages = (_score * 100) / _questions.Length;
         }
