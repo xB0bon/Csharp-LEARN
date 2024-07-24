@@ -8,6 +8,7 @@ class Program
     {
         
         DateTime dataTime = new DateTime(2008, 11, 30);
+        Console.WriteLine();
         Console.WriteLine("my birthday is " + dataTime);
         Console.WriteLine("Current date and time: " + DateTime.Now);
         Console.WriteLine("Tomorrow: " + GetTomorrow());
