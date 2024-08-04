@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Piotrek\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Technicznych im. Tadeusza Ko\u015Bciuszki w Radomiu\\Komputer domowy\\Desktop\\PROGRAMOWANIE\\Nauka c-sharp\\WPF\\Basics\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81FF81CC-86BF-4F5A-A1FA-C7E80CFB4CDD}|WpfApp1\\WpfApp1.csproj|c:\\users\\piotrek\\onedrive - zesp\u00F3\u0142 szk\u00F3\u0142 technicznych im. tadeusza ko\u015Bciuszki w radomiu\\komputer domowy\\desktop\\programowanie\\nauka c-sharp\\wpf\\basics\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{81FF81CC-86BF-4F5A-A1FA-C7E80CFB4CDD}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81FF81CC-86BF-4F5A-A1FA-C7E80CFB4CDD}|WpfApp1\\WpfApp1.csproj|c:\\users\\piotrek\\onedrive - zesp\u00F3\u0142 szk\u00F3\u0142 technicznych im. tadeusza ko\u015Bciuszki w radomiu\\komputer domowy\\desktop\\programowanie\\nauka c-sharp\\wpf\\basics\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81FF81CC-86BF-4F5A-A1FA-C7E80CFB4CDD}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81FF81CC-86BF-4F5A-A1FA-C7E80CFB4CDD}|WpfApp1\\WpfApp1.csproj|c:\\users\\piotrek\\onedrive - zesp\u00F3\u0142 szk\u00F3\u0142 technicznych im. tadeusza ko\u015Bciuszki w radomiu\\komputer domowy\\desktop\\programowanie\\nauka c-sharp\\wpf\\basics\\wpfapp1\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{81FF81CC-86BF-4F5A-A1FA-C7E80CFB4CDD}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Piotrek\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Technicznych im. Tadeusza Ko\u015Bciuszki w Radomiu\\Komputer domowy\\Desktop\\PROGRAMOWANIE\\Nauka c-sharp\\WPF\\Basics\\WpfApp1\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
+              "ToolTip": "C:\\Users\\Piotrek\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Technicznych im. Tadeusza Ko\u015Bciuszki w Radomiu\\Komputer domowy\\Desktop\\PROGRAMOWANIE\\Nauka c-sharp\\WPF\\Basics\\WpfApp1\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "WpfApp1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-04T12:49:58.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Piotrek\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Technicznych im. Tadeusza Ko\u015Bciuszki w Radomiu\\Komputer domowy\\Desktop\\PROGRAMOWANIE\\Nauka c-sharp\\WPF\\Basics\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Piotrek\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Technicznych im. Tadeusza Ko\u015Bciuszki w Radomiu\\Komputer domowy\\Desktop\\PROGRAMOWANIE\\Nauka c-sharp\\WPF\\Basics\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-04T10:18:28.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Piotrek\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Technicznych im. Tadeusza Ko\u015Bciuszki w Radomiu\\Komputer domowy\\Desktop\\PROGRAMOWANIE\\Nauka c-sharp\\WPF\\Basics\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Piotrek\\OneDrive - Zesp\u00F3\u0142 Szk\u00F3\u0142 Technicznych im. Tadeusza Ko\u015Bciuszki w Radomiu\\Komputer domowy\\Desktop\\PROGRAMOWANIE\\Nauka c-sharp\\WPF\\Basics\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:18:16.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
